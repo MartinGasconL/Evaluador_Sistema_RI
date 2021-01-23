@@ -1,0 +1,16 @@
+com/recinfo/collection/RecallPrecision.java
+ com.recinfo.collection.RecallPrecision
+Matrix.java
+ Matrix
+com/recinfo/collection/Judgement.java
+ com.recinfo.collection.Judgement
+Metrics.java
+ Metrics
+com/recinfo/collection/RecoveredDocuments.java
+ com.recinfo.collection.RecoveredDocuments
+com/recinfo/collection/Judgements.java
+ com.recinfo.collection.Judgements
+com/recinfo/collection/RecoveredDocument.java
+ com.recinfo.collection.RecoveredDocument
+Evaluation.java
+ Evaluation
